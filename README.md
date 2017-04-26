@@ -1,4 +1,4 @@
-# Ionic2-Testing Script
+# Ionic 3 Testing Script
 
 The script will install packages and create config files that are needed for Ionic 2 testing.
 This setup and configurations are based on https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/
